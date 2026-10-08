@@ -1,7 +1,12 @@
-lab_data/
-runs/
-TrackEval/
 *.pt
+*.mp4
+
+lab_data/
+data_lab21/
+TrackEval/
+runs/thu_nhanh/
+runs/thu_*/
+
 __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
